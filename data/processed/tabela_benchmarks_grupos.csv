@@ -1,0 +1,4 @@
+perfil_operacao,qtd_veiculos,custo_km_media,custo_km_mediana,custo_km_std,custo_km_q1,custo_km_q3,custo_km_iqr,kml_media,kml_mediana,pct_comb_media,pct_manut_media,pct_pedagio_media,pct_multas_media
+LEVE_URBANO,10,0.973,0.823,0.397,0.73,1.026,0.296,10.98,11.52,59.9,32.1,2.3,5.7
+MEDIO_DISTRIBUICAO,8,1.329,1.155,0.416,1.123,1.353,0.229,6.21,6.41,78.9,12.9,4.0,4.3
+PESADO_RODOVIARIO,7,2.892,2.749,0.42,2.739,2.81,0.071,2.38,2.46,91.5,4.4,3.5,0.6

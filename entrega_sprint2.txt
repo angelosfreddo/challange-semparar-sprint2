@@ -1,0 +1,42 @@
+================================================================================
+FIAP - GRADUACAO ON EM INTELIGENCIA ARTIFICIAL (1º ANO)
+CHALLENGE SEM PARAR EMPRESAS (CORPAY) - SPRINT 2
+PROJETO: CALCULADORA DE REDUCAO DE CUSTOS DE FROTA (INTELIGENCIA E DIAGNOSTICO)
+================================================================================
+
+ALUNO / GRUPO INDIVIDUAL:
+Nome: Angelo Guilherme Sfreddo
+RM: 566580
+Turma: 1TIAO / 1TIAOR - Graduacao ON em Inteligencia Artificial
+
+--------------------------------------------------------------------------------
+1. LINK DO REPOSITORIO GITHUB PRIVADO:
+--------------------------------------------------------------------------------
+https://github.com/angelosfreddo/challange-semparar-sprint2
+
+* Observacao: O repositorio e PRIVADO e compartilhado exclusivamente com o perfil
+  oficial da tutoria da FIAP (fiap-tutoria) conforme instrucoes do edital.
+
+--------------------------------------------------------------------------------
+2. LINK DO VIDEO DEMONSTRATIVO NO YOUTUBE (NAO LISTADO - ATE 5 MINUTOS):
+--------------------------------------------------------------------------------
+[INSERIR_LINK_YOUTUBE_SPRINT2_AQUI]
+
+* Observacao: O video contem a demonstracao completa do fluxo da Sprint 2:
+  - Telemetria de borda e deteccao de anomalias no simulador ESP32 (Wokwi);
+  - Ingestao multiformato (CSV, JSON, TXT) e auditoria de qualidade (Cognitive Data Science);
+  - Computacao estatistica de benchmark por grupos homogeneos (Leve, Medio e Pesado);
+  - Mensuracao dos Gaps de Ineficiencia e ranking de desvios por veiculo e categoria;
+  - Modelagem supervisionada de Machine Learning (Arvore de Decisao, Random Forest e Rede Neural MLP);
+  - Confronto analitico entre Regras de Negocio e Inteligencia Artificial;
+  - Resposta fundamentada com evidencias as duas perguntas centrais do gestor de frota.
+
+================================================================================
+ARQUIVOS E ESTRUTURA DISPONIVEIS NO REPOSITORIO GITHUB:
+- README.md: Documentacao mestre completa conforme o modelo oficial TEMPLATE-TIAO-2026
+- data/: Cadastro de frota, bases brutas heterogeneas, dados auditados, telemetria e dicionario de dados
+- docs/: Relatorio de auditoria de qualidade, benchmark estatistico e gaps, diagnostico de ML vs Regras, Kanban atualizado e roteiro do video
+- src/: Codigo modular de ingestao, qualidade de dados, calculador de benchmark, pipeline de ML, extrator OCR e aplicacao executavel (app.py)
+- notebooks/: 02_inteligencia_e_diagnostico_frota.ipynb (Notebook interativo completo)
+- assets/diagramas/: 5 paineis graficos de alta resolucao e diagrama arquitetural da solucao
+================================================================================

@@ -1,0 +1,63 @@
+# REGISTRO DE MANUTENCAO DE FROTA - FORMATO PIPE DELIMITED
+# REG|ID_MANUTENCAO|DATA|VEICULO_ID|TIPO_MANUTENCAO|VALOR_REAIS|DESCRICAO|OFICINA_PARCEIRA
+REG|MAN-70001|2026-09-09|SP-V01|PREVENTIVA|576.32|Troca de oleo, filtros e revisao periodica|Mecânica RodoDiesel
+REG|MAN-70002|2026-08-14|SP-V01|PREVENTIVA|462.72|Substituicao de pastilhas de freio|Auto Center Porto Seguro
+REG|MAN-70003|2026-08-25|SP-V01|PREVENTIVA|316.67|Alinhamento, balanceamento e rodizio de pneus|Mecânica RodoDiesel
+REG|MAN-70004|2026-09-25|SP-V02|CORRETIVA|1030.82|Reparo emergencial no sistema de arrefecimento / radiador|Mecânica RodoDiesel
+REG|MAN-70005|2026-09-20|SP-V02|PREVENTIVA|468.11|Alinhamento, balanceamento e rodizio de pneus|Mecânica RodoDiesel
+REG|MAN-70006|2026-07-09|SP-V02|PREVENTIVA|519.73|Troca de oleo, filtros e revisao periodica|Mecânica RodoDiesel
+REG|MAN-70007|2026-07-14|SP-V03|CORRETIVA|1383.32|Reparo do sistema de freios / ABS|Auto Center Porto Seguro
+REG|MAN-70008|2026-07-22|SP-V03|PREVENTIVA|254.81|Alinhamento, balanceamento e rodizio de pneus|Auto Center Porto Seguro
+REG|MAN-70009|2026-07-18|SP-V03|CORRETIVA|1161.42|Manutencao corretiva de suspensao e amortecedores|Oficina Central Bosch Car
+REG|MAN-70010|2026-09-10|SP-V03|CORRETIVA|1884.80|Reparo emergencial no sistema de arrefecimento / radiador|Auto Center Porto Seguro
+REG|MAN-70011|2026-07-22|SP-V03|CORRETIVA|1703.86|Reparo do sistema de freios / ABS|Auto Center Porto Seguro
+REG|MAN-70012|2026-07-09|SP-V04|PREVENTIVA|591.41|Troca de oleo, filtros e revisao periodica|Auto Center Porto Seguro
+REG|MAN-70013|2026-09-21|SP-V04|PREVENTIVA|479.17|Alinhamento, balanceamento e rodizio de pneus|Oficina Central Bosch Car
+REG|MAN-70014|2026-07-12|SP-V04|PREVENTIVA|482.04|Alinhamento, balanceamento e rodizio de pneus|Auto Center Porto Seguro
+REG|MAN-70015|2026-07-17|SP-V05|CORRETIVA|1724.16|Manutencao corretiva de suspensao e amortecedores|Mecânica RodoDiesel
+REG|MAN-70016|2026-09-07|SP-V05|PREVENTIVA|1118.29|Troca de oleo, filtros e revisao periodica|Mecânica RodoDiesel
+REG|MAN-70017|2026-09-10|SP-V06|CORRETIVA|3002.34|Substituicao de embreagem desgastada|Mecânica RodoDiesel
+REG|MAN-70018|2026-09-13|SP-V06|PREVENTIVA|383.79|Troca de oleo, filtros e revisao periodica|Auto Center Porto Seguro
+REG|MAN-70019|2026-08-12|SP-V06|PREVENTIVA|510.54|Alinhamento, balanceamento e rodizio de pneus|Oficina Central Bosch Car
+REG|MAN-70020|2026-08-18|SP-V07|PREVENTIVA|332.67|Alinhamento, balanceamento e rodizio de pneus|Auto Center Porto Seguro
+REG|MAN-70021|2026-08-08|SP-V07|PREVENTIVA|580.38|Substituicao de pastilhas de freio|Mecânica RodoDiesel
+REG|MAN-70022|2026-09-13|SP-V08|PREVENTIVA|478.95|Troca de oleo, filtros e revisao periodica|Mecânica RodoDiesel
+REG|MAN-70023|2026-09-26|SP-V08|CORRETIVA|2505.94|Manutencao corretiva de suspensao e amortecedores|Auto Center Porto Seguro
+REG|MAN-70024|2026-09-22|SP-V09|PREVENTIVA|334.13|Alinhamento, balanceamento e rodizio de pneus|Oficina Central Bosch Car
+REG|MAN-70025|2026-08-27|SP-V09|PREVENTIVA|630.50|Substituicao de pastilhas de freio|Auto Center Porto Seguro
+REG|MAN-70026|2026-07-20|SP-V09|PREVENTIVA|843.88|Troca de oleo, filtros e revisao periodica|Auto Center Porto Seguro
+REG|MAN-70027|2026-07-21|SP-V10|PREVENTIVA|1029.05|Substituicao de pastilhas de freio|Oficina Central Bosch Car
+REG|MAN-70028|2026-07-22|SP-V11|PREVENTIVA|1041.98|Substituicao de pastilhas de freio|Mecânica RodoDiesel
+REG|MAN-70029|2026-07-12|SP-V11|PREVENTIVA|482.87|Substituicao de pastilhas de freio|Mecânica RodoDiesel
+REG|MAN-70030|2026-07-07|SP-V12|PREVENTIVA|586.42|Alinhamento, balanceamento e rodizio de pneus|Mecânica RodoDiesel
+REG|MAN-70031|2026-09-23|SP-V13|PREVENTIVA|303.18|Alinhamento, balanceamento e rodizio de pneus|Oficina Central Bosch Car
+REG|MAN-70032|2026-07-17|SP-V13|CORRETIVA|2629.87|Reparo do sistema de freios / ABS|Auto Center Porto Seguro
+REG|MAN-70033|2026-09-19|SP-V14|CORRETIVA|3346.90|Substituicao de embreagem desgastada|Oficina Central Bosch Car
+REG|MAN-70034|2026-07-07|SP-V14|CORRETIVA|1462.03|Manutencao corretiva de suspensao e amortecedores|Auto Center Porto Seguro
+REG|MAN-70035|2026-09-02|SP-V14|CORRETIVA|1063.95|Reparo emergencial no sistema de arrefecimento / radiador|Mecânica RodoDiesel
+REG|MAN-70036|2026-09-04|SP-V14|CORRETIVA|1895.74|Substituicao de embreagem desgastada|Oficina Central Bosch Car
+REG|MAN-70037|2026-08-25|SP-V14|CORRETIVA|3021.04|Reparo do sistema de freios / ABS|Mecânica RodoDiesel
+REG|MAN-70038|2026-08-01|SP-V14|CORRETIVA|3928.00|Substituicao de embreagem desgastada|Oficina Central Bosch Car
+REG|MAN-70039|2026-08-29|SP-V15|PREVENTIVA|490.75|Alinhamento, balanceamento e rodizio de pneus|Mecânica RodoDiesel
+REG|MAN-70040|2026-08-27|SP-V16|CORRETIVA|2259.03|Reparo do sistema de freios / ABS|Mecânica RodoDiesel
+REG|MAN-70041|2026-08-13|SP-V16|CORRETIVA|2049.56|Reparo do sistema de freios / ABS|Mecânica RodoDiesel
+REG|MAN-70042|2026-07-09|SP-V17|PREVENTIVA|790.90|Troca de oleo, filtros e revisao periodica|Mecânica RodoDiesel
+REG|MAN-70043|2026-07-09|SP-V17|PREVENTIVA|935.61|Substituicao de pastilhas de freio|Oficina Central Bosch Car
+REG|MAN-70044|2026-08-10|SP-V18|PREVENTIVA|520.79|Alinhamento, balanceamento e rodizio de pneus|Mecânica RodoDiesel
+REG|MAN-70045|2026-07-25|SP-V19|PREVENTIVA|1043.32|Substituicao de pastilhas de freio|Auto Center Porto Seguro
+REG|MAN-70046|2026-09-08|SP-V19|PREVENTIVA|540.46|Alinhamento, balanceamento e rodizio de pneus|Mecânica RodoDiesel
+REG|MAN-70047|2026-09-06|SP-V20|CORRETIVA|2615.04|Substituicao de embreagem desgastada|Mecânica RodoDiesel
+REG|MAN-70048|2026-07-07|SP-V21|CORRETIVA|4377.17|Substituicao de embreagem desgastada|Oficina Central Bosch Car
+REG|MAN-70049|2026-08-05|SP-V21|PREVENTIVA|1035.01|Substituicao de pastilhas de freio|Oficina Central Bosch Car
+REG|MAN-70050|2026-07-15|SP-V22|CORRETIVA|2812.00|Manutencao corretiva de suspensao e amortecedores|Oficina Central Bosch Car
+REG|MAN-70051|2026-09-09|SP-V22|CORRETIVA|2563.24|Substituicao de embreagem desgastada|Mecânica RodoDiesel
+REG|MAN-70052|2026-07-09|SP-V22|CORRETIVA|1922.36|Reparo emergencial no sistema de arrefecimento / radiador|Auto Center Porto Seguro
+REG|MAN-70053|2026-07-23|SP-V22|CORRETIVA|1843.92|Substituicao de embreagem desgastada|Auto Center Porto Seguro
+REG|MAN-70054|2026-08-26|SP-V23|PREVENTIVA|938.04|Substituicao de pastilhas de freio|Mecânica RodoDiesel
+REG|MAN-70055|2026-09-22|SP-V24|CORRETIVA|4657.56|Substituicao de embreagem desgastada|Oficina Central Bosch Car
+REG|MAN-70056|2026-09-21|SP-V24|PREVENTIVA|739.85|Troca de oleo, filtros e revisao periodica|Mecânica RodoDiesel
+REG|MAN-70057|2026-07-04|SP-V25|PREVENTIVA|333.26|Alinhamento, balanceamento e rodizio de pneus|Auto Center Porto Seguro
+REG|MAN-70058|2026-09-26|SP-V25|PREVENTIVA|404.66|Alinhamento, balanceamento e rodizio de pneus|Auto Center Porto Seguro
+REG|MAN-70059|2026-09-18|SP-V25|CORRETIVA|2044.47|Reparo emergencial no sistema de arrefecimento / radiador|Auto Center Porto Seguro
+REG|MAN-99901||SP-V05|CORRETIVA|1250.00|Reparo sem data registrada|Mecanica Desconhecida
+REG|MAN-99902|2026-08-11|SP-V88|PREVENTIVA|450.00|Revisao de veiculo fantasma|Oficina Rapida

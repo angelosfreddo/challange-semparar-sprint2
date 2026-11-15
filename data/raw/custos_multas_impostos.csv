@@ -1,0 +1,45 @@
+infracao_id,data_ocorrencia,veiculo_id,categoria_despesa,descricao,valor_reais,orgao_emissor
+INF-80001,2026-07-12,SP-V01,MULTA,Excesso de velocidade entre 20% e 50% acima,195.23,DETRAN-SP / DER / CET
+INF-80002,2026-07-13,SP-V02,IMPOSTO,Seguro Obrigatorio e Emissao DPVAT/Taxa,180.0,DETRAN-SP / DER / CET
+INF-80003,2026-07-10,SP-V03,MULTA,Excesso de velocidade entre 20% e 50% acima,195.23,DETRAN-SP / DER / CET
+INF-80004,2026-07-10,SP-V03,IMPOSTO,Seguro Obrigatorio e Emissao DPVAT/Taxa,180.0,DETRAN-SP / DER / CET
+INF-80005,2026-09-17,SP-V03,IMPOSTO,Parcela IPVA e Taxa de Licenciamento Anual,650.0,DETRAN-SP / DER / CET
+INF-80006,2026-08-13,SP-V03,MULTA,Avanco de sinal vermelho do semaforo,293.47,DETRAN-SP / DER / CET
+INF-80007,2026-07-17,SP-V03,MULTA,Excesso de velocidade ate 20% acima do limite,130.16,DETRAN-SP / DER / CET
+INF-80008,2026-08-28,SP-V04,MULTA,Excesso de velocidade entre 20% e 50% acima,195.23,DETRAN-SP / DER / CET
+INF-80009,2026-08-11,SP-V05,IMPOSTO,Parcela IPVA e Taxa de Licenciamento Anual,650.0,DETRAN-SP / DER / CET
+INF-80010,2026-09-02,SP-V06,IMPOSTO,Seguro Obrigatorio e Emissao DPVAT/Taxa,180.0,DETRAN-SP / DER / CET
+INF-80011,2026-07-10,SP-V07,MULTA,Excesso de velocidade ate 20% acima do limite,130.16,DETRAN-SP / DER / CET
+INF-80012,2026-08-13,SP-V07,MULTA,Avanco de sinal vermelho do semaforo,293.47,DETRAN-SP / DER / CET
+INF-80013,2026-08-23,SP-V08,MULTA,Excesso de velocidade ate 20% acima do limite,130.16,DETRAN-SP / DER / CET
+INF-80014,2026-08-29,SP-V08,IMPOSTO,Parcela IPVA e Taxa de Licenciamento Anual,650.0,DETRAN-SP / DER / CET
+INF-80015,2026-08-12,SP-V09,MULTA,Transitar em faixa ou via exclusiva de onibus,293.47,DETRAN-SP / DER / CET
+INF-80016,2026-07-21,SP-V10,IMPOSTO,Seguro Obrigatorio e Emissao DPVAT/Taxa,180.0,DETRAN-SP / DER / CET
+INF-80017,2026-08-17,SP-V11,IMPOSTO,Parcela IPVA e Taxa de Licenciamento Anual,650.0,DETRAN-SP / DER / CET
+INF-80018,2026-08-27,SP-V11,IMPOSTO,Parcela IPVA e Taxa de Licenciamento Anual,650.0,DETRAN-SP / DER / CET
+INF-80019,2026-08-01,SP-V12,IMPOSTO,Parcela IPVA e Taxa de Licenciamento Anual,650.0,DETRAN-SP / DER / CET
+INF-80020,2026-07-19,SP-V13,IMPOSTO,Parcela IPVA e Taxa de Licenciamento Anual,650.0,DETRAN-SP / DER / CET
+INF-80021,2026-09-05,SP-V14,IMPOSTO,Seguro Obrigatorio e Emissao DPVAT/Taxa,180.0,DETRAN-SP / DER / CET
+INF-80022,2026-09-21,SP-V14,IMPOSTO,Seguro Obrigatorio e Emissao DPVAT/Taxa,180.0,DETRAN-SP / DER / CET
+INF-80023,2026-08-11,SP-V14,MULTA,Transitar em faixa ou via exclusiva de onibus,293.47,DETRAN-SP / DER / CET
+INF-80024,2026-08-08,SP-V15,IMPOSTO,Parcela IPVA e Taxa de Licenciamento Anual,650.0,DETRAN-SP / DER / CET
+INF-80025,2026-09-17,SP-V15,IMPOSTO,Parcela IPVA e Taxa de Licenciamento Anual,650.0,DETRAN-SP / DER / CET
+INF-80026,2026-07-22,SP-V16,IMPOSTO,Parcela IPVA e Taxa de Licenciamento Anual,650.0,DETRAN-SP / DER / CET
+INF-80027,2026-09-16,SP-V16,MULTA,Transitar em faixa ou via exclusiva de onibus,293.47,DETRAN-SP / DER / CET
+INF-80028,2026-09-07,SP-V17,MULTA,Excesso de velocidade entre 20% e 50% acima,195.23,DETRAN-SP / DER / CET
+INF-80029,2026-09-22,SP-V17,MULTA,Excesso de velocidade entre 20% e 50% acima,195.23,DETRAN-SP / DER / CET
+INF-80030,2026-07-30,SP-V18,MULTA,Excesso de velocidade ate 20% acima do limite,130.16,DETRAN-SP / DER / CET
+INF-80031,2026-07-21,SP-V18,MULTA,Excesso de velocidade ate 20% acima do limite,130.16,DETRAN-SP / DER / CET
+INF-80032,2026-09-24,SP-V19,MULTA,Excesso de velocidade ate 20% acima do limite,130.16,DETRAN-SP / DER / CET
+INF-80033,2026-08-01,SP-V19,IMPOSTO,Parcela IPVA e Taxa de Licenciamento Anual,650.0,DETRAN-SP / DER / CET
+INF-80034,2026-08-27,SP-V20,MULTA,Excesso de velocidade ate 20% acima do limite,130.16,DETRAN-SP / DER / CET
+INF-80035,2026-08-17,SP-V20,MULTA,Avanco de sinal vermelho do semaforo,293.47,DETRAN-SP / DER / CET
+INF-80036,2026-07-07,SP-V21,IMPOSTO,Seguro Obrigatorio e Emissao DPVAT/Taxa,180.0,DETRAN-SP / DER / CET
+INF-80037,2026-08-11,SP-V22,MULTA,Avanco de sinal vermelho do semaforo,293.47,DETRAN-SP / DER / CET
+INF-80038,2026-07-14,SP-V22,MULTA,Avanco de sinal vermelho do semaforo,293.47,DETRAN-SP / DER / CET
+INF-80039,2026-08-13,SP-V22,IMPOSTO,Parcela IPVA e Taxa de Licenciamento Anual,650.0,DETRAN-SP / DER / CET
+INF-80040,2026-09-14,SP-V22,MULTA,Avanco de sinal vermelho do semaforo,293.47,DETRAN-SP / DER / CET
+INF-80041,2026-07-20,SP-V23,IMPOSTO,Seguro Obrigatorio e Emissao DPVAT/Taxa,180.0,DETRAN-SP / DER / CET
+INF-80042,2026-08-18,SP-V24,MULTA,Transitar em faixa ou via exclusiva de onibus,293.47,DETRAN-SP / DER / CET
+INF-80043,2026-09-16,SP-V24,IMPOSTO,Parcela IPVA e Taxa de Licenciamento Anual,650.0,DETRAN-SP / DER / CET
+INF-80044,2026-07-28,SP-V25,MULTA,Excesso de velocidade entre 20% e 50% acima,195.23,DETRAN-SP / DER / CET

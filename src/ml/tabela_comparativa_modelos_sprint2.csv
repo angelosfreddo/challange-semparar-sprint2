@@ -1,0 +1,5 @@
+algoritmo,acuracia_teste,acertos,erros,total_teste
+Árvore de Decisão (Introdutório),1.0,60,0,60
+Random Forest,1.0,60,0,60
+Ir Além: Rede Neural Artificial MLP,1.0,60,0,60
+Regressão Logística,0.9667,58,2,60
