@@ -20,7 +20,7 @@ https://github.com/angelosfreddo/challange-semparar-sprint2
 --------------------------------------------------------------------------------
 2. LINK DO VIDEO DEMONSTRATIVO NO YOUTUBE (NAO LISTADO - ATE 5 MINUTOS):
 --------------------------------------------------------------------------------
-[INSERIR_LINK_YOUTUBE_SPRINT2_AQUI]
+https://youtu.be/eWbmq8-mzmQ
 
 * Observacao: O video contem a demonstracao completa do fluxo da Sprint 2:
   - Telemetria de borda e deteccao de anomalias no simulador ESP32 (Wokwi);
@@ -40,3 +40,4 @@ ARQUIVOS E ESTRUTURA DISPONIVEIS NO REPOSITORIO GITHUB:
 - notebooks/: 02_inteligencia_e_diagnostico_frota.ipynb (Notebook interativo completo)
 - assets/diagramas/: 5 paineis graficos de alta resolucao e diagrama arquitetural da solucao
 ================================================================================
+

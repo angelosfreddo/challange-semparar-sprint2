@@ -73,3 +73,4 @@
 - [ ] Estimativa de Economia Financeira Projetada em Reais (R$/ano) caso os veículos atinjam o benchmark do seu grupo;
 - [ ] Simulador de ROI (Retorno sobre Investimento) das soluções Sem Parar Empresas (Tag Pedágio, Cartão Combustível, Gestão de Abastecimento);
 - [ ] Relatório executivo consolidado em formato PDF / Dashboard web para tomada de decisão do CFO e Gestor de Frota.
+

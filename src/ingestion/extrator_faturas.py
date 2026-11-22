@@ -93,3 +93,4 @@ def demonstrar_extracao():
 
 if __name__ == "__main__":
     demonstrar_extracao()
+

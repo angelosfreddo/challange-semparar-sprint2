@@ -342,3 +342,4 @@ def gerar_bases_brutas(seed=42):
 
 if __name__ == "__main__":
     gerar_bases_brutas()
+

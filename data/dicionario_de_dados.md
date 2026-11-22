@@ -127,3 +127,4 @@ Base agregada final resultante dos processos de normalização, auditoria e cruz
 | `gap_custo_km_pct` | % | $((\text{custo\_km} - \text{benchmark\_km}) / \text{benchmark\_km}) \times 100$ | **Gap de ineficiência contra o grupo** |
 | `diagnostico_regras` | Categórico | Regra baseada no corte do gap percentual | `EFICIENTE`, `ATENCAO`, `INEFICIENTE` |
 | `diagnostico_ml` | Categórico | Predição da Árvore de Decisão / Random Forest | `EFICIENTE`, `ATENCAO`, `INEFICIENTE` |
+

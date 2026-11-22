@@ -87,3 +87,4 @@ Abra o diagrama de arquitetura em `assets/diagramas/05_arquitetura_solucao_sprin
 > "Em síntese, respondemos com precisão empírica às duas perguntas do gestor: demonstramos exatamente quanto a operação custa em cada categoria e apontamos onde estão os gargalos reais de ineficiência.  
 > Essa base sólida, auditada e calibrada prepara perfeitamente a Calculadora Sem Parar para a Sprint 3, onde implementaremos o motor de recomendações acionáveis e a estimativa de economia financeira em reais para o cliente.  
 > Muito obrigado pela atenção!"
+

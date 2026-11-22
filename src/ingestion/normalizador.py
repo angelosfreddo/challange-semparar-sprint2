@@ -127,3 +127,4 @@ def executar_normalizacao():
 
 if __name__ == "__main__":
     executar_normalizacao()
+

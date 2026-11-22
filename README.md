@@ -27,7 +27,7 @@
 
 ## Links do Projeto
 * **Repositório GitHub Privado:** [https://github.com/angelosfreddo/challange-semparar-sprint2](https://github.com/angelosfreddo/challange-semparar-sprint2) *(Acesso concedido para `fiap-tutoria`)*
-* **Vídeo Demonstrativo no YouTube (Não Listado, até 5 min):** `[INSERIR_LINK_YOUTUBE_SPRINT2_AQUI]`
+* **Vídeo Demonstrativo no YouTube (Não Listado, até 5 min):** [https://youtu.be/eWbmq8-mzmQ](https://youtu.be/eWbmq8-mzmQ)
 * **Simulador Wokwi do Módulo IoT ESP32:** [Wokwi ESP32 Telemetria Sem Parar](https://wokwi.com/projects/new/esp32)
 
 ---
@@ -297,3 +297,4 @@ Conforme documentado em [`docs/planejamento_kanban.md`](docs/planejamento_kanban
 - **Sprint 1 (Concluída):** Concepção da arquitetura, 20 User Stories, 3 personas e modelo de maturidade;
 - **Sprint 2 (Concluída - Entrega Atual):** Ingestão multiformato, qualidade de dados, telemetria ESP32, benchmark justo, gaps de ineficiência, modelo de Machine Learning e Rede Neural MLP;
 - **Sprint 3 (Próxima Etapa):** Motor de recomendação prescritiva por veículo (treinamento de motoristas, manutenção preventiva programada e rotas eficientes), simulador de ROI dos produtos Sem Parar e projeção da economia em reais (R$/ano) caso a frota alcance a mediana do seu benchmark.
+

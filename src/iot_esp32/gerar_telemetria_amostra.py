@@ -110,3 +110,4 @@ def gerar_telemetria_frota(num_registros=5000, seed=42):
 
 if __name__ == "__main__":
     gerar_telemetria_frota()
+
